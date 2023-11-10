@@ -1,7 +1,7 @@
 # Flash_Mod
 Flash水坑修改版
 
-![1](.\1.png)
+1.png
 
 ## 简介
 ```
